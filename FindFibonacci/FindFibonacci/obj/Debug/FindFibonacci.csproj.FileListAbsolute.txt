@@ -1,0 +1,8 @@
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\bin\Debug\FindFibonacci.exe.config
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\bin\Debug\FindFibonacci.exe
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\bin\Debug\FindFibonacci.pdb
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\obj\Debug\FindFibonacci.csproj.AssemblyReference.cache
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\obj\Debug\FindFibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\obj\Debug\FindFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\obj\Debug\FindFibonacci.exe
+C:\Users\ViktorovPV\source\repos\FindFibonacci\FindFibonacci\obj\Debug\FindFibonacci.pdb

@@ -1,0 +1,8 @@
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\bin\Debug\FindFibonacciRecursion.exe.config
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\bin\Debug\FindFibonacciRecursion.exe
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\bin\Debug\FindFibonacciRecursion.pdb
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\obj\Debug\FindFibonacciRecursion.csproj.AssemblyReference.cache
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\obj\Debug\FindFibonacciRecursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\obj\Debug\FindFibonacciRecursion.csproj.CoreCompileInputs.cache
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\obj\Debug\FindFibonacciRecursion.exe
+C:\Users\ViktorovPV\source\repos\FindFibonacciRecursion\FindFibonacciRecursion\obj\Debug\FindFibonacciRecursion.pdb
