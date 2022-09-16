@@ -1,0 +1,8 @@
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\bin\Debug\Asimptotics.exe.config
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\bin\Debug\Asimptotics.exe
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\bin\Debug\Asimptotics.pdb
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\obj\Debug\Asimptotics.csproj.AssemblyReference.cache
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\obj\Debug\Asimptotics.csproj.SuggestedBindingRedirects.cache
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\obj\Debug\Asimptotics.csproj.CoreCompileInputs.cache
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\obj\Debug\Asimptotics.exe
+C:\Users\ViktorovPV\source\repos\Asimptotics\Asimptotics\obj\Debug\Asimptotics.pdb
